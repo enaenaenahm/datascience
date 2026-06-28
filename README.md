@@ -1,6 +1,6 @@
 # Data Science Projects 📊
 
-Русская версия [тут](https://github.com/enaenaenahm/data_science/blob/main/README_RUS.md).
+Русская версия [тут](https://github.com/enaenaenahm/datascience/blob/main/README_RUS.md).
 
 As part of my training, I completed a series of projects covering the key aspects of Data Science — from working with UNIX utilities to data visualization and analysis. Below is a brief overview of each project:
 
